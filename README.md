@@ -1,0 +1,1 @@
+# AI_MNIST_Structure
